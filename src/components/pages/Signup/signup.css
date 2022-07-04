@@ -1,0 +1,15 @@
+.text-secondary{
+    font-weight: bolder;
+    font-style: oblique;
+}
+.First{
+    font-weight: bold;
+    font-style: oblique;
+}
+.container{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/862/449/162/jack-reacher-star-wars-interstellar-movie-john-wick-wallpaper-preview.jpg');
+    height: 100vh;
+}
+.offset{
+    background-color: blue;
+}

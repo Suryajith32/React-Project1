@@ -1,0 +1,9 @@
+.card-title{
+    font-weight: bolder;
+    font-size: 50px;
+    font-style: oblique;
+}
+.card-text{
+    font-style: oblique;
+    font-weight: bolder;
+}
